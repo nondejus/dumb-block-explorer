@@ -5,7 +5,7 @@ A trivial block explorer written in a single PHP file.
 
 Demo
 -------
-https://bitcointools.jonasschnelli.ch/explorer/
+https://bitcoin.jonasschnelli.ch/explorer/
 
 Features
 -------
